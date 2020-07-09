@@ -1,0 +1,3 @@
+I"<p>Traditional post-processing schemes lookat error words sequentially since OCRs process documents one at a time. We propose a cost efficient model to address the error words in batches rather than correcting them individually.
+ We demonstrate the efficacy of our solution empirically by reporting more than 70% reductionin the human effort  with near perfect error correction.</p>
+:ET
