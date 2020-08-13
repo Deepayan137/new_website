@@ -1,0 +1,2 @@
+I" <p>We explore the problem of adapting an  existing OCR, already trained for a specific collection to a new collection, with minimal supervision or human effort. We explore three popular strategies for this: (i) Fine Tuning (ii) Self Training (ii) Fine Tuning + Self Training and discuss details on how these popular  approaches in Machine Learning can be adapted to the text recognition problem of our interest.</p>
+:ET
